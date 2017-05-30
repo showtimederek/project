@@ -1,0 +1,71 @@
+html {
+  background-image: url("../images/CarbonfiberGrey.jpg");
+  margin: 70px 50px;
+}
+
+body {
+  font-family: 'Open Sans' , sans serif;
+}
+
+header {
+  max-width: 60%;
+  margin: auto;
+  text-align: right;
+}
+
+footer {
+  margin: auto;
+  text-align: center;
+}
+
+h1 , h3 {
+  font-family: 'Amatic SC', cursive;
+}
+
+a, a:visited, a:hover, a:active {
+  text-decoration: none;
+}
+
+#travel {
+  color: inherit;
+}
+
+.menu {
+  display: inline-block;
+  width: 30%;
+  text-align: right;
+  border-style: none solid none none;
+  border-width: 2px;
+  padding: 15px;
+}
+
+.info {
+  display: inline-block;
+  max-width: 48%;
+  vertical-align: top;
+  padding: 15px;
+}
+
+/********** MENU LINKS **********/
+
+.menu ul li {
+  list-style: none;
+}
+
+/********************************/
+/********** SELF IMAGE **********/
+
+.profile-image {
+  max-width: 100px;
+  text-align: right;
+  /* border: 6px double;
+  border-radius: 10px; */
+}
+
+/********************************/
+/********** SOCIAL ICONS ********/
+
+.social {
+  max-width: 50px;
+  padding: 0px 5px;
+}
