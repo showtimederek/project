@@ -1,3 +1,4 @@
 # project
 Personal project
-First push of personal site. Much iimprovements to be done
+
+5/30/17 - First push of personal site. Much improvements to be done
